@@ -25,3 +25,5 @@ More on LangChain
 
 <img width="694" alt="image" src="https://github.com/user-attachments/assets/86761fde-dd64-41fe-b019-32f81069a8a8" />
 
+RAG Evaluation
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/f1a1927e-077c-4d1d-bc59-122ba59f1f2a" />
